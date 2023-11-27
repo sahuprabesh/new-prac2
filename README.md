@@ -1,2 +1,2 @@
 # delta-prac
-practice codes of delta course.
+practice codes of delta course
